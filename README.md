@@ -1,0 +1,2 @@
+# JAIOBot
+Bot para Discord
