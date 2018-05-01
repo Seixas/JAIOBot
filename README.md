@@ -1,2 +1,2 @@
 # JAIOBot
-Bot para Discord
+Bot para Discord utilizando Heroku
